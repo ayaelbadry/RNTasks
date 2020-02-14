@@ -1,0 +1,1 @@
+# this is folder contains tasks with react native traning on the tool 
